@@ -38,6 +38,13 @@ custom-arduino-nano/
 - Voltage regulation planning (barrel jack → onboard 5V rail)
 - Arduino bootloader knowledge and ISP flashing setup
 
+## 📸 Photo Gallery
+
+| Top View | Solder Detail |
+|----------|---------------|
+| ![](20250522_160320.jpg) | ![](20250522_160354.jpg) |
+
+
 ## 🧠 Author
 
 Quantum Richardson  
